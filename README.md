@@ -17,7 +17,7 @@ Teléfono Conmutador (993 3 10 32 32
 - twitter: 
 - facebook:
 - instagram:
-- 
+
 ###Ing. Jorge Antonio Chávez
 - Secretario del Ayuntamiento
 - Ext. 1133, 1134 3 16 58 41 (Teléfono directo)
@@ -31,7 +31,7 @@ Teléfono Conmutador (993 3 10 32 32
 - twitter: 
 - facebook:
 - instagram:
-- 
+
 ###Lic. Edgar Tomás Barría
 - Director de Finanzas
 - Ext. 1160 3176025 (Teléfono directo)
