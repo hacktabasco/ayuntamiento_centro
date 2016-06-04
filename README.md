@@ -5,9 +5,9 @@
 
 Teléfono Conmutador (993 3 10 32 32
 
-Lic. Ximena Martel Cantú
-Presidenta del Voluntariado DIF Centro
-3 16 89 98 (Teléfono directo)
+- Lic. Ximena Martel Cantú
+- Presidenta del Voluntariado DIF Centro
+- 3 16 89 98 (Teléfono directo)
 
 Lic. Eduardo Antonio de Mucha Ocaña
 Secretario Particular
