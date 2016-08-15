@@ -7,6 +7,7 @@ Teléfono Conmutador (993 3 10 32 32
 ###Centro
 - twitter: https://twitter.com/centroatiende
 - twitter: https://twitter.com/OficialCentro
+- twitter: https://twitter.com/ComSocialCentro
 
 
 ###Lic. Gerardo Gaudiano Rovirosa
