@@ -253,6 +253,14 @@ Teléfono Conmutador (993 3 10 32 32
 - facebook:
 - instagram:
 
+###Lic. Cristy Yoly
+- Subdirectora de Promoción y Desarrollo Turístico de la Dirección de Fomento Económico y Turismo
+- teléfono:
+- twitter: https://twitter.com/CristyYolyCC
+- facebook:
+- instagram:
+
+
 ###C. Paola Fuentes
 - Secretaria Privada, Presidencia Municipal Centro
 - teléfono:
