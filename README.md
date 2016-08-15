@@ -4,6 +4,11 @@
 
 Teléfono Conmutador (993 3 10 32 32
 
+###Centro
+- twitter: https://twitter.com/centroatiende
+- twitter: https://twitter.com/OficialCentro
+
+
 ###Lic. Gerardo Gaudiano Rovirosa
 - Presidente Municipal de Centro
 - Telefono:
@@ -106,7 +111,8 @@ Teléfono Conmutador (993 3 10 32 32
 ###Lic. Ulises Chávez Vélez
 - Director de Asuntos Jurídicos
 - Ext. 1211
-- twitter: 
+- twitter: https://twitter.com/UlisesChavezV_
+- twitter: https://twitter.com/UlisesChV
 - facebook:
 - instagram:
 
@@ -236,6 +242,13 @@ Teléfono Conmutador (993 3 10 32 32
 - Coordinador de Giras y Logística
 - Ext. 1200
 - twitter: 
+- facebook:
+- instagram:
+
+###Lic. Rubén Darío Ligonio
+- Coordinador de Delegados
+- teléfono:
+- twitter: https://twitter.com/RubenDLigonio
 - facebook:
 - instagram:
 
