@@ -250,6 +250,7 @@ Teléfono Conmutador (993 3 10 32 32
 - Coordinador de Delegados
 - teléfono:
 - twitter: https://twitter.com/RubenDLigonio
+- twitter: https://twitter.com/Delega2_Centro
 - facebook:
 - instagram:
 
