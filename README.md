@@ -261,6 +261,12 @@ Teléfono Conmutador (993 3 10 32 32
 - facebook:
 - instagram:
 
+###C. Laires Carrera Perez
+- Lider Transportista del Estado de Tabasco y Décimo Primer Regidor de Centro
+- teléfono:
+- twitter: https://twitter.com/Laires_Carrera
+- facebook:
+- instagram:
 
 ###C. Paola Fuentes
 - Secretaria Privada, Presidencia Municipal Centro
